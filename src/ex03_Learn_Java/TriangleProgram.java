@@ -1,3 +1,5 @@
+package ex03_Learn_Java;
+
 import java.util.Scanner;
 
 public class TriangleProgram {
